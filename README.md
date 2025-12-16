@@ -6,11 +6,9 @@ I'm a passionate Developer and Machine Learning Enthusiast . I love building rea
 
 🛠 Tech Stack
 
-Programming Languages: Java, Kotlin, Python
+Programming Languages: Java,Python
 
-Mobile Development: Android (Jetpack Compose, XML, Firebase, Room DB)
-
-Database Management: MySQL, SQLite, MongoDB
+Database Management: MySQL,MongoDB
 
 Machine Learning: Scikit-learn, TensorFlow, OpenCV
 
